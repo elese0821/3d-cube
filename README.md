@@ -1,4 +1,4 @@
-npx create-next-app .
+npx create-react-app .
 
 ```
 npm i sass
